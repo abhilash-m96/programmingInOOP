@@ -1,2 +1,2 @@
 # programmingInOOP
-String And Array Programming Using OOP
+Includes most common String and Array Programming Using OOP
